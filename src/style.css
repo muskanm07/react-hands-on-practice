@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    color: black;
+}
+.ProductCard{
+ border: 1px solid black;
+ height: 100px;
+ width: 200px;
+ margin-bottom: 20px;
+ 
+ text-align: center;
+}
+.students{
+    border: 1px solid black;
+ height: 100px;
+ width: 200px;
+ margin-bottom: 20px;
+ 
+ text-align: center;
+}
+.card{
+ border: 2px solid black;
+ height:170px;
+ width: 200px;
+ margin-bottom: 20px;
+ text-align: center;
+}
+.title{
+    border: 2px solid black;
+ height:100px;
+ width: 200px;
+ margin-bottom: 20px;
+ text-align: center;
+}
+.content{
+    border: 2px solid black;
+ height:100px;
+ width: 200px;
+ margin-bottom: 20px;
+ text-align: center;
+}

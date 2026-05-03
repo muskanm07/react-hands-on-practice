@@ -39,3 +39,23 @@ body{
  margin-bottom: 20px;
  text-align: center;
 }
+.stu{
+ border: 1.5px solid rgb(236, 87, 87);
+ background-color: bisque;
+ color: rgb(111, 130, 147);
+ height:100px;
+ width: 200px;
+ margin-bottom: 20px;
+ text-align: center;
+ border-radius: 20px;
+}
+.activity{
+    background-color: rgb(213, 207, 198);
+ color: rgb(111, 130, 147);
+ height:100px;
+ width: 200px;
+ margin-bottom: 20px;
+ text-align: center;
+ border-radius: 20px;
+
+}

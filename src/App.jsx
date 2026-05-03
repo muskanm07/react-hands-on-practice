@@ -16,6 +16,13 @@ import MyButton from './MyButton'
 // import StatusBadge from './StatusBadge'
 import CardComponent from './CardComponent'
 import Counter from './Counter'
+import ToggleBtn from './ToggleBtn'
+import Input from './Input'
+import MapMethod from './MapMethod'
+import FilterMethod from './FilterMethod'
+import SpreadOperator from './spreadOperator'
+import Activity from './activity1'
+import Todos from './Todos.jsx'
 
 
 
@@ -30,7 +37,13 @@ function App() {
 
   return (
     <>
-    
+    <Todos/>
+    <Activity/>
+    <MapMethod/>
+    <FilterMethod/>
+    <SpreadOperator/>
+    <Input/>
+    <ToggleBtn/>
      {/* <Counter/> */}
      <h1>muskan</h1>
     <UseCard name="Muskan" city="Noida"/>

@@ -157,7 +157,9 @@ return (
 
 | Day | Date | Topics | Hours |
 |-----|------|--------|-------|
-| Day 1 | May 2026 | Components, Props, JSX basics | 4 hrs |
+| Day 1 | 2 May 2026 | Components, Props, JSX basics | 4 hrs |
+| Day 2 | 3 May 2026 | UsesState,Function methods,Exercises | 3 hrs |
+
 
 ---
 
